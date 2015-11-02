@@ -1,0 +1,23 @@
+#EXTM3U
+
+
+#EXTINF:-1,CAP 1
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:bitten/Bitten.S02E01.mp4/playlist.m3u8
+#EXTINF:-1,CAP 2
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:bitten/Bitten.S02E02.mp4/playlist.m3u8
+#EXTINF:-1,CAP 3
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:bitten/Bitten.S02E03.mp4/playlist.m3u8
+#EXTINF:-1,CAP 4
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:bitten/Bitten.S02E04.mp4/playlist.m3u8
+#EXTINF:-1,CAP 5
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:bitten/Bitten.S02E05.mp4/playlist.m3u8
+#EXTINF:-1,CAP 6
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:bitten/Bitten.S02E06.mp4/playlist.m3u8
+#EXTINF:-1,CAP 7
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:bitten/Bitten.S02E07.mp4/playlist.m3u8
+#EXTINF:-1,CAP 8
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:bitten/Bitten.S02E08.mp4/playlist.m3u8
+#EXTINF:-1,CAP 9
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:bitten/Bitten.S02E09.mp4/playlist.m3u8
+#EXTINF:-1,CAP 10
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:bitten/Bitten.S02E10.mp4/playlist.m3u8
